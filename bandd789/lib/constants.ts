@@ -815,7 +815,7 @@ export const INITIAL_PROMO_CARDS: PromoCard[] = [
 export const INITIAL_TESTIMONIALS: Testimonial[] = [
   {
     id: 'test-001',
-    title: 'ทำไม? คุณหมอ ถึงสร้างบ้านกับ แลนดี้ โฮม มากที่สุด',
+    title: 'ทำไม? คุณหมอ ถึงสร้างบ้านกับเรามากที่สุด',
     imageUrl: 'https://picsum.photos/seed/test1/800/450',
     videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ', // Placeholder video
     order: 1,
@@ -831,7 +831,7 @@ export const INITIAL_TESTIMONIALS: Testimonial[] = [
   },
   {
     id: 'test-003',
-    title: 'ตอบโจทย์ทุกความต้องการ ใส่ใจทุกรายละเอียด ต้องแลนดี้ โฮม',
+    title: 'ตอบโจทย์ทุกความต้องการ ใส่ใจทุกรายละเอียด ต้องเรา',
     imageUrl: 'https://picsum.photos/seed/test3/400/225',
     videoUrl: 'https://www.youtube.com/embed/3tmd-ClpJxA', // Placeholder video
     order: 3,
